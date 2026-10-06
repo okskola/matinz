@@ -1,0 +1,12 @@
+[
+  {
+    "batch_id": "P001",
+    "sheet_number": 1,
+    "width_mm": 499.95,
+    "thickness_mm": [
+      2.005,
+      1.998,
+      1.987
+    ]
+  }
+]
