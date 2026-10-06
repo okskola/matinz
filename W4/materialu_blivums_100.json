@@ -1,0 +1,802 @@
+[
+  {
+    "sample": "S001",
+    "material": "Tērauds 441",
+    "measurements": {
+      "mass_g": 175.917,
+      "volume_cm3": 22.827
+    }
+  },
+  {
+    "sample": "S002",
+    "material": "Alumīnijs",
+    "measurements": {
+      "mass_g": 16.036,
+      "volume_cm3": 5.949
+    }
+  },
+  {
+    "sample": "S003",
+    "material": "Tērauds 441",
+    "measurements": {
+      "mass_g": 134.303,
+      "volume_cm3": 17.403
+    }
+  },
+  {
+    "sample": "S004",
+    "material": "Alumīnijs",
+    "measurements": {
+      "mass_g": 52.603,
+      "volume_cm3": 19.549
+    }
+  },
+  {
+    "sample": "S005",
+    "material": "Tērauds 321",
+    "measurements": {
+      "mass_g": 72.435,
+      "volume_cm3": 9.152
+    }
+  },
+  {
+    "sample": "S006",
+    "material": "Tērauds 321",
+    "measurements": {
+      "mass_g": 75.434,
+      "volume_cm3": 9.566
+    }
+  },
+  {
+    "sample": "S007",
+    "material": "Magnijs",
+    "measurements": {
+      "mass_g": 27.32,
+      "volume_cm3": 15.672
+    }
+  },
+  {
+    "sample": "S008",
+    "material": "Varš",
+    "measurements": {
+      "mass_g": 96.099,
+      "volume_cm3": 10.701
+    }
+  },
+  {
+    "sample": "S009",
+    "material": "Titāns",
+    "measurements": {
+      "mass_g": 70.794,
+      "volume_cm3": 15.684
+    }
+  },
+  {
+    "sample": "S010",
+    "material": "Varš",
+    "measurements": {
+      "mass_g": 128.046,
+      "volume_cm3": 14.294
+    }
+  },
+  {
+    "sample": "S011",
+    "material": "Titāns",
+    "measurements": {
+      "mass_g": 26.841,
+      "volume_cm3": 5.96
+    }
+  },
+  {
+    "sample": "S012",
+    "material": "Cinks",
+    "measurements": {
+      "mass_g": 78.619,
+      "volume_cm3": 10.981
+    }
+  },
+  {
+    "sample": "S013",
+    "material": "Titāns",
+    "measurements": {
+      "mass_g": 57.22,
+      "volume_cm3": 12.707
+    }
+  },
+  {
+    "sample": "S014",
+    "material": "Cinks",
+    "measurements": {
+      "mass_g": 187.203,
+      "volume_cm3": 26.308
+    }
+  },
+  {
+    "sample": "S015",
+    "material": "Magnijs",
+    "measurements": {
+      "mass_g": 22.141,
+      "volume_cm3": 12.768
+    }
+  },
+  {
+    "sample": "S016",
+    "material": "Varš",
+    "measurements": {
+      "mass_g": 143.62,
+      "volume_cm3": 16.076
+    }
+  },
+  {
+    "sample": "S017",
+    "material": "Magnijs",
+    "measurements": {
+      "mass_g": 48.278,
+      "volume_cm3": 27.718
+    }
+  },
+  {
+    "sample": "S018",
+    "material": "Alumīnijs",
+    "measurements": {
+      "mass_g": 45.089,
+      "volume_cm3": 16.658
+    }
+  },
+  {
+    "sample": "S019",
+    "material": "Titāns",
+    "measurements": {
+      "mass_g": 85.572,
+      "volume_cm3": 18.99
+    }
+  },
+  {
+    "sample": "S020",
+    "material": "Cinks",
+    "measurements": {
+      "mass_g": 102.959,
+      "volume_cm3": 14.49
+    }
+  },
+  {
+    "sample": "S021",
+    "material": "Titāns",
+    "measurements": {
+      "mass_g": 49.898,
+      "volume_cm3": 11.056
+    }
+  },
+  {
+    "sample": "S022",
+    "material": "Tērauds 304",
+    "measurements": {
+      "mass_g": 193.72,
+      "volume_cm3": 24.574
+    }
+  },
+  {
+    "sample": "S023",
+    "material": "Cinks",
+    "measurements": {
+      "mass_g": 49.257,
+      "volume_cm3": 6.903
+    }
+  },
+  {
+    "sample": "S024",
+    "material": "Titāns",
+    "measurements": {
+      "mass_g": 106.456,
+      "volume_cm3": 23.559
+    }
+  },
+  {
+    "sample": "S025",
+    "material": "Magnijs",
+    "measurements": {
+      "mass_g": 29.857,
+      "volume_cm3": 17.192
+    }
+  },
+  {
+    "sample": "S026",
+    "material": "Tērauds 304L",
+    "measurements": {
+      "mass_g": 137.664,
+      "volume_cm3": 17.466
+    }
+  },
+  {
+    "sample": "S027",
+    "material": "Magnijs",
+    "measurements": {
+      "mass_g": 51.001,
+      "volume_cm3": 29.39
+    }
+  },
+  {
+    "sample": "S028",
+    "material": "Tērauds 201",
+    "measurements": {
+      "mass_g": 222.562,
+      "volume_cm3": 28.434
+    }
+  },
+  {
+    "sample": "S029",
+    "material": "Titāns",
+    "measurements": {
+      "mass_g": 70.844,
+      "volume_cm3": 15.782
+    }
+  },
+  {
+    "sample": "S030",
+    "material": "Tērauds 321",
+    "measurements": {
+      "mass_g": 58.746,
+      "volume_cm3": 7.44
+    }
+  },
+  {
+    "sample": "S031",
+    "material": "Cinks",
+    "measurements": {
+      "mass_g": 55.424,
+      "volume_cm3": 7.772
+    }
+  },
+  {
+    "sample": "S032",
+    "material": "Cinks",
+    "measurements": {
+      "mass_g": 154.731,
+      "volume_cm3": 21.7
+    }
+  },
+  {
+    "sample": "S033",
+    "material": "Alumīnijs",
+    "measurements": {
+      "mass_g": 53.747,
+      "volume_cm3": 19.84
+    }
+  },
+  {
+    "sample": "S034",
+    "material": "Magnijs",
+    "measurements": {
+      "mass_g": 47.508,
+      "volume_cm3": 27.381
+    }
+  },
+  {
+    "sample": "S035",
+    "material": "Tērauds 304",
+    "measurements": {
+      "mass_g": 137.414,
+      "volume_cm3": 17.37
+    }
+  },
+  {
+    "sample": "S036",
+    "material": "Titāns",
+    "measurements": {
+      "mass_g": 52.64,
+      "volume_cm3": 11.679
+    }
+  },
+  {
+    "sample": "S037",
+    "material": "Varš",
+    "measurements": {
+      "mass_g": 91.681,
+      "volume_cm3": 10.266
+    }
+  },
+  {
+    "sample": "S038",
+    "material": "Alumīnijs",
+    "measurements": {
+      "mass_g": 77.361,
+      "volume_cm3": 28.627
+    }
+  },
+  {
+    "sample": "S039",
+    "material": "Tērauds 441",
+    "measurements": {
+      "mass_g": 105.796,
+      "volume_cm3": 13.782
+    }
+  },
+  {
+    "sample": "S040",
+    "material": "Tērauds 304L",
+    "measurements": {
+      "mass_g": 152.996,
+      "volume_cm3": 19.387
+    }
+  },
+  {
+    "sample": "S041",
+    "material": "Tērauds 201",
+    "measurements": {
+      "mass_g": 161.519,
+      "volume_cm3": 20.75
+    }
+  },
+  {
+    "sample": "S042",
+    "material": "Alumīnijs",
+    "measurements": {
+      "mass_g": 18.325,
+      "volume_cm3": 6.765
+    }
+  },
+  {
+    "sample": "S043",
+    "material": "Tērauds 321",
+    "measurements": {
+      "mass_g": 129.426,
+      "volume_cm3": 16.445
+    }
+  },
+  {
+    "sample": "S044",
+    "material": "Cinks",
+    "measurements": {
+      "mass_g": 92.127,
+      "volume_cm3": 12.87
+    }
+  },
+  {
+    "sample": "S045",
+    "material": "Varš",
+    "measurements": {
+      "mass_g": 109.704,
+      "volume_cm3": 12.252
+    }
+  },
+  {
+    "sample": "S046",
+    "material": "Tērauds 304L",
+    "measurements": {
+      "mass_g": 60.646,
+      "volume_cm3": 7.693
+    }
+  },
+  {
+    "sample": "S047",
+    "material": "Cinks",
+    "measurements": {
+      "mass_g": 79.339,
+      "volume_cm3": 11.146
+    }
+  },
+  {
+    "sample": "S048",
+    "material": "Varš",
+    "measurements": {
+      "mass_g": 137.459,
+      "volume_cm3": 15.33
+    }
+  },
+  {
+    "sample": "S049",
+    "material": "Magnijs",
+    "measurements": {
+      "mass_g": 38.853,
+      "volume_cm3": 22.39
+    }
+  },
+  {
+    "sample": "S050",
+    "material": "Tērauds 304",
+    "measurements": {
+      "mass_g": 209.674,
+      "volume_cm3": 26.486
+    }
+  },
+  {
+    "sample": "S051",
+    "material": "Cinks",
+    "measurements": {
+      "mass_g": 105.993,
+      "volume_cm3": 14.917
+    }
+  },
+  {
+    "sample": "S052",
+    "material": "Varš",
+    "measurements": {
+      "mass_g": 169.001,
+      "volume_cm3": 18.814
+    }
+  },
+  {
+    "sample": "S053",
+    "material": "Cinks",
+    "measurements": {
+      "mass_g": 211.751,
+      "volume_cm3": 29.738
+    }
+  },
+  {
+    "sample": "S054",
+    "material": "Varš",
+    "measurements": {
+      "mass_g": 134.964,
+      "volume_cm3": 15.068
+    }
+  },
+  {
+    "sample": "S055",
+    "material": "Alumīnijs",
+    "measurements": {
+      "mass_g": 56.962,
+      "volume_cm3": 21.1
+    }
+  },
+  {
+    "sample": "S056",
+    "material": "Varš",
+    "measurements": {
+      "mass_g": 59.423,
+      "volume_cm3": 6.622
+    }
+  },
+  {
+    "sample": "S057",
+    "material": "Tērauds 304L",
+    "measurements": {
+      "mass_g": 55.264,
+      "volume_cm3": 7.009
+    }
+  },
+  {
+    "sample": "S058",
+    "material": "Alumīnijs",
+    "measurements": {
+      "mass_g": 64.223,
+      "volume_cm3": 23.715
+    }
+  },
+  {
+    "sample": "S059",
+    "material": "Tērauds 441",
+    "measurements": {
+      "mass_g": 217.669,
+      "volume_cm3": 28.373
+    }
+  },
+  {
+    "sample": "S060",
+    "material": "Magnijs",
+    "measurements": {
+      "mass_g": 36.285,
+      "volume_cm3": 20.785
+    }
+  },
+  {
+    "sample": "S061",
+    "material": "Varš",
+    "measurements": {
+      "mass_g": 238.251,
+      "volume_cm3": 26.605
+    }
+  },
+  {
+    "sample": "S062",
+    "material": "Titāns",
+    "measurements": {
+      "mass_g": 85.96,
+      "volume_cm3": 19.072
+    }
+  },
+  {
+    "sample": "S063",
+    "material": "Titāns",
+    "measurements": {
+      "mass_g": 33.627,
+      "volume_cm3": 7.449
+    }
+  },
+  {
+    "sample": "S064",
+    "material": "Tērauds 201",
+    "measurements": {
+      "mass_g": 218.242,
+      "volume_cm3": 28.041
+    }
+  },
+  {
+    "sample": "S065",
+    "material": "Tērauds 304L",
+    "measurements": {
+      "mass_g": 82.226,
+      "volume_cm3": 10.443
+    }
+  },
+  {
+    "sample": "S066",
+    "material": "Cinks",
+    "measurements": {
+      "mass_g": 63.271,
+      "volume_cm3": 8.85
+    }
+  },
+  {
+    "sample": "S067",
+    "material": "Cinks",
+    "measurements": {
+      "mass_g": 72.306,
+      "volume_cm3": 10.157
+    }
+  },
+  {
+    "sample": "S068",
+    "material": "Cinks",
+    "measurements": {
+      "mass_g": 78.631,
+      "volume_cm3": 11.063
+    }
+  },
+  {
+    "sample": "S069",
+    "material": "Varš",
+    "measurements": {
+      "mass_g": 220.618,
+      "volume_cm3": 24.665
+    }
+  },
+  {
+    "sample": "S070",
+    "material": "Magnijs",
+    "measurements": {
+      "mass_g": 44.31,
+      "volume_cm3": 25.454
+    }
+  },
+  {
+    "sample": "S071",
+    "material": "Magnijs",
+    "measurements": {
+      "mass_g": 32.127,
+      "volume_cm3": 18.406
+    }
+  },
+  {
+    "sample": "S072",
+    "material": "Tērauds 304",
+    "measurements": {
+      "mass_g": 220.656,
+      "volume_cm3": 27.929
+    }
+  },
+  {
+    "sample": "S073",
+    "material": "Alumīnijs",
+    "measurements": {
+      "mass_g": 25.987,
+      "volume_cm3": 9.625
+    }
+  },
+  {
+    "sample": "S074",
+    "material": "Magnijs",
+    "measurements": {
+      "mass_g": 50.654,
+      "volume_cm3": 29.175
+    }
+  },
+  {
+    "sample": "S075",
+    "material": "Alumīnijs",
+    "measurements": {
+      "mass_g": 61.212,
+      "volume_cm3": 22.758
+    }
+  },
+  {
+    "sample": "S076",
+    "material": "Titāns",
+    "measurements": {
+      "mass_g": 52.824,
+      "volume_cm3": 11.75
+    }
+  },
+  {
+    "sample": "S077",
+    "material": "Tērauds 304",
+    "measurements": {
+      "mass_g": 163.281,
+      "volume_cm3": 20.634
+    }
+  },
+  {
+    "sample": "S078",
+    "material": "Alumīnijs",
+    "measurements": {
+      "mass_g": 23.981,
+      "volume_cm3": 8.854
+    }
+  },
+  {
+    "sample": "S079",
+    "material": "Alumīnijs",
+    "measurements": {
+      "mass_g": 15.724,
+      "volume_cm3": 5.842
+    }
+  },
+  {
+    "sample": "S080",
+    "material": "Magnijs",
+    "measurements": {
+      "mass_g": 50.688,
+      "volume_cm3": 29.051
+    }
+  },
+  {
+    "sample": "S081",
+    "material": "Varš",
+    "measurements": {
+      "mass_g": 83.052,
+      "volume_cm3": 9.245
+    }
+  },
+  {
+    "sample": "S082",
+    "material": "Cinks",
+    "measurements": {
+      "mass_g": 102.906,
+      "volume_cm3": 14.412
+    }
+  },
+  {
+    "sample": "S083",
+    "material": "Cinks",
+    "measurements": {
+      "mass_g": 35.734,
+      "volume_cm3": 5.006
+    }
+  },
+  {
+    "sample": "S084",
+    "material": "Tērauds 201",
+    "measurements": {
+      "mass_g": 79.584,
+      "volume_cm3": 10.236
+    }
+  },
+  {
+    "sample": "S085",
+    "material": "Titāns",
+    "measurements": {
+      "mass_g": 24.084,
+      "volume_cm3": 5.345
+    }
+  },
+  {
+    "sample": "S086",
+    "material": "Tērauds 441",
+    "measurements": {
+      "mass_g": 172.785,
+      "volume_cm3": 22.47
+    }
+  },
+  {
+    "sample": "S087",
+    "material": "Varš",
+    "measurements": {
+      "mass_g": 125.591,
+      "volume_cm3": 13.972
+    }
+  },
+  {
+    "sample": "S088",
+    "material": "Magnijs",
+    "measurements": {
+      "mass_g": 20.027,
+      "volume_cm3": 11.553
+    }
+  },
+  {
+    "sample": "S089",
+    "material": "Varš",
+    "measurements": {
+      "mass_g": 165.368,
+      "volume_cm3": 18.437
+    }
+  },
+  {
+    "sample": "S090",
+    "material": "Varš",
+    "measurements": {
+      "mass_g": 63.653,
+      "volume_cm3": 7.095
+    }
+  },
+  {
+    "sample": "S091",
+    "material": "Magnijs",
+    "measurements": {
+      "mass_g": 50.855,
+      "volume_cm3": 29.16
+    }
+  },
+  {
+    "sample": "S092",
+    "material": "Magnijs",
+    "measurements": {
+      "mass_g": 47.997,
+      "volume_cm3": 27.478
+    }
+  },
+  {
+    "sample": "S093",
+    "material": "Titāns",
+    "measurements": {
+      "mass_g": 38.628,
+      "volume_cm3": 8.549
+    }
+  },
+  {
+    "sample": "S094",
+    "material": "Alumīnijs",
+    "measurements": {
+      "mass_g": 20.668,
+      "volume_cm3": 7.631
+    }
+  },
+  {
+    "sample": "S095",
+    "material": "Tērauds 201",
+    "measurements": {
+      "mass_g": 138.477,
+      "volume_cm3": 17.754
+    }
+  },
+  {
+    "sample": "S096",
+    "material": "Titāns",
+    "measurements": {
+      "mass_g": 73.84,
+      "volume_cm3": 16.379
+    }
+  },
+  {
+    "sample": "S097",
+    "material": "Tērauds 321",
+    "measurements": {
+      "mass_g": 115.712,
+      "volume_cm3": 14.679
+    }
+  },
+  {
+    "sample": "S098",
+    "material": "Titāns",
+    "measurements": {
+      "mass_g": 42.929,
+      "volume_cm3": 9.491
+    }
+  },
+  {
+    "sample": "S099",
+    "material": "Alumīnijs",
+    "measurements": {
+      "mass_g": 22.179,
+      "volume_cm3": 8.24
+    }
+  },
+  {
+    "sample": "S100",
+    "material": "Alumīnijs",
+    "measurements": {
+      "mass_g": 23.038,
+      "volume_cm3": 8.53
+    }
+  }
+]
