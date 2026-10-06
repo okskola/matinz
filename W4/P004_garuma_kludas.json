@@ -1,0 +1,1652 @@
+[
+  {
+    "batch_id": "P004",
+    "sheet_number": 1,
+    "length_mm": 998.46,
+    "width_mm": 499.64,
+    "thickness_mm": [
+      2.011,
+      1.996,
+      1.999
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 2,
+    "length_mm": 999.82,
+    "width_mm": 500.0,
+    "thickness_mm": [
+      2.004,
+      1.998,
+      1.995
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 3,
+    "length_mm": 998.21,
+    "width_mm": 499.68,
+    "thickness_mm": [
+      1.999,
+      2.012,
+      2.004
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 4,
+    "length_mm": 1000.03,
+    "width_mm": 499.69,
+    "thickness_mm": [
+      1.985,
+      1.988,
+      1.988
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 5,
+    "length_mm": 1001.46,
+    "width_mm": 500.06,
+    "thickness_mm": [
+      1.99,
+      1.999,
+      1.998
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 6,
+    "length_mm": 1001.73,
+    "width_mm": 500.06,
+    "thickness_mm": [
+      2.025,
+      2.002,
+      2.034
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 7,
+    "length_mm": 998.2,
+    "width_mm": 500.21,
+    "thickness_mm": [
+      1.989,
+      1.986,
+      1.993
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 8,
+    "length_mm": 1000.69,
+    "width_mm": 500.23,
+    "thickness_mm": [
+      2.001,
+      2.024,
+      2.003
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 9,
+    "length_mm": 1000.44,
+    "width_mm": 499.81,
+    "thickness_mm": [
+      2.007,
+      2.011,
+      2.002
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 10,
+    "length_mm": 1001.87,
+    "width_mm": 500.0,
+    "thickness_mm": [
+      1.997,
+      1.992,
+      2.002
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 11,
+    "length_mm": 1001.38,
+    "width_mm": 500.02,
+    "thickness_mm": [
+      1.986,
+      1.979,
+      1.99
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 12,
+    "length_mm": 997.93,
+    "width_mm": 499.5,
+    "thickness_mm": [
+      1.999,
+      1.989,
+      1.991
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 13,
+    "length_mm": 997.75,
+    "width_mm": 500.21,
+    "thickness_mm": [
+      1.978,
+      1.974,
+      1.975
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 14,
+    "length_mm": 997.58,
+    "width_mm": 500.33,
+    "thickness_mm": [
+      2.003,
+      1.988,
+      1.982
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 15,
+    "length_mm": 1002.16,
+    "width_mm": 500.05,
+    "thickness_mm": [
+      2.002,
+      1.984,
+      1.997
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 16,
+    "length_mm": 1002.24,
+    "width_mm": 499.89,
+    "thickness_mm": [
+      1.996,
+      1.995,
+      1.98
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 17,
+    "length_mm": 997.94,
+    "width_mm": 499.76,
+    "thickness_mm": [
+      1.997,
+      1.994,
+      1.984
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 18,
+    "length_mm": 1001.81,
+    "width_mm": 499.87,
+    "thickness_mm": [
+      1.967,
+      1.98,
+      1.982
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 19,
+    "length_mm": 998.2,
+    "width_mm": 500.37,
+    "thickness_mm": [
+      1.976,
+      1.993,
+      1.996
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 20,
+    "length_mm": 1000.12,
+    "width_mm": 500.3,
+    "thickness_mm": [
+      1.995,
+      1.994,
+      2.0
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 21,
+    "length_mm": 999.43,
+    "width_mm": 500.1,
+    "thickness_mm": [
+      1.985,
+      1.988,
+      1.997
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 22,
+    "length_mm": 999.71,
+    "width_mm": 500.04,
+    "thickness_mm": [
+      2.008,
+      2.001,
+      2.009
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 23,
+    "length_mm": 1002.31,
+    "width_mm": 499.66,
+    "thickness_mm": [
+      1.997,
+      1.983,
+      2.005
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 24,
+    "length_mm": 1002.13,
+    "width_mm": 500.8,
+    "thickness_mm": [
+      2.004,
+      2.001,
+      2.01
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 25,
+    "length_mm": 999.35,
+    "width_mm": 499.74,
+    "thickness_mm": [
+      1.992,
+      1.99,
+      1.994
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 26,
+    "length_mm": 1001.78,
+    "width_mm": 500.17,
+    "thickness_mm": [
+      1.996,
+      2.02,
+      2.006
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 27,
+    "length_mm": 997.72,
+    "width_mm": 499.59,
+    "thickness_mm": [
+      2.019,
+      2.003,
+      2.014
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 28,
+    "length_mm": 1001.7,
+    "width_mm": 499.73,
+    "thickness_mm": [
+      2.013,
+      1.99,
+      1.998
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 29,
+    "length_mm": 1001.84,
+    "width_mm": 500.3,
+    "thickness_mm": [
+      1.994,
+      2.019,
+      1.993
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 30,
+    "length_mm": 997.8,
+    "width_mm": 500.03,
+    "thickness_mm": [
+      2.007,
+      1.998,
+      1.995
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 31,
+    "length_mm": 997.53,
+    "width_mm": 499.89,
+    "thickness_mm": [
+      2.014,
+      2.028,
+      2.035
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 32,
+    "length_mm": 1000.3,
+    "width_mm": 499.99,
+    "thickness_mm": [
+      1.977,
+      1.994,
+      1.972
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 33,
+    "length_mm": 1002.39,
+    "width_mm": 500.02,
+    "thickness_mm": [
+      2.037,
+      2.017,
+      2.046
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 34,
+    "length_mm": 1000.12,
+    "width_mm": 499.9,
+    "thickness_mm": [
+      1.992,
+      1.995,
+      1.985
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 35,
+    "length_mm": 1001.72,
+    "width_mm": 499.62,
+    "thickness_mm": [
+      2.01,
+      2.006,
+      2.021
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 36,
+    "length_mm": 998.17,
+    "width_mm": 499.68,
+    "thickness_mm": [
+      2.019,
+      2.014,
+      2.017
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 37,
+    "length_mm": 1002.29,
+    "width_mm": 500.01,
+    "thickness_mm": [
+      1.995,
+      1.987,
+      2.002
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 38,
+    "length_mm": 1001.74,
+    "width_mm": 499.62,
+    "thickness_mm": [
+      2.006,
+      2.002,
+      2.012
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 39,
+    "length_mm": 1001.84,
+    "width_mm": 499.6,
+    "thickness_mm": [
+      2.006,
+      2.013,
+      2.029
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 40,
+    "length_mm": 999.99,
+    "width_mm": 499.59,
+    "thickness_mm": [
+      1.994,
+      1.979,
+      1.991
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 41,
+    "length_mm": 1000.04,
+    "width_mm": 500.22,
+    "thickness_mm": [
+      1.984,
+      2.008,
+      2.005
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 42,
+    "length_mm": 1002.34,
+    "width_mm": 500.18,
+    "thickness_mm": [
+      2.015,
+      2.001,
+      2.011
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 43,
+    "length_mm": 998.2,
+    "width_mm": 499.74,
+    "thickness_mm": [
+      1.982,
+      1.976,
+      1.994
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 44,
+    "length_mm": 999.66,
+    "width_mm": 500.1,
+    "thickness_mm": [
+      1.997,
+      1.983,
+      2.0
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 45,
+    "length_mm": 997.56,
+    "width_mm": 500.34,
+    "thickness_mm": [
+      1.989,
+      2.007,
+      2.002
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 46,
+    "length_mm": 1000.1,
+    "width_mm": 499.95,
+    "thickness_mm": [
+      2.002,
+      1.991,
+      2.01
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 47,
+    "length_mm": 1000.43,
+    "width_mm": 499.94,
+    "thickness_mm": [
+      1.984,
+      1.96,
+      1.983
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 48,
+    "length_mm": 1001.68,
+    "width_mm": 500.32,
+    "thickness_mm": [
+      1.985,
+      1.989,
+      1.987
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 49,
+    "length_mm": 999.52,
+    "width_mm": 499.91,
+    "thickness_mm": [
+      2.001,
+      2.007,
+      2.001
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 50,
+    "length_mm": 999.64,
+    "width_mm": 499.9,
+    "thickness_mm": [
+      1.998,
+      2.0,
+      2.009
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 51,
+    "length_mm": 997.98,
+    "width_mm": 499.85,
+    "thickness_mm": [
+      1.996,
+      2.005,
+      1.987
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 52,
+    "length_mm": 1002.37,
+    "width_mm": 500.17,
+    "thickness_mm": [
+      1.99,
+      1.99,
+      1.982
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 53,
+    "length_mm": 1000.02,
+    "width_mm": 500.21,
+    "thickness_mm": [
+      2.0,
+      1.996,
+      2.002
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 54,
+    "length_mm": 997.97,
+    "width_mm": 499.74,
+    "thickness_mm": [
+      1.981,
+      1.985,
+      1.994
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 55,
+    "length_mm": 999.79,
+    "width_mm": 500.12,
+    "thickness_mm": [
+      1.984,
+      1.987,
+      1.983
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 56,
+    "length_mm": 999.91,
+    "width_mm": 499.97,
+    "thickness_mm": [
+      2.001,
+      1.985,
+      1.999
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 57,
+    "length_mm": 999.79,
+    "width_mm": 500.14,
+    "thickness_mm": [
+      2.014,
+      2.005,
+      2.011
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 58,
+    "length_mm": 1002.21,
+    "width_mm": 500.26,
+    "thickness_mm": [
+      2.013,
+      2.001,
+      2.015
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 59,
+    "length_mm": 1002.13,
+    "width_mm": 500.41,
+    "thickness_mm": [
+      2.01,
+      2.028,
+      2.024
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 60,
+    "length_mm": 999.71,
+    "width_mm": 500.29,
+    "thickness_mm": [
+      2.005,
+      2.007,
+      1.994
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 61,
+    "length_mm": 998.04,
+    "width_mm": 500.2,
+    "thickness_mm": [
+      2.003,
+      2.012,
+      2.004
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 62,
+    "length_mm": 1001.99,
+    "width_mm": 499.5,
+    "thickness_mm": [
+      2.007,
+      2.011,
+      2.006
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 63,
+    "length_mm": 998.05,
+    "width_mm": 499.71,
+    "thickness_mm": [
+      1.989,
+      1.99,
+      2.0
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 64,
+    "length_mm": 998.16,
+    "width_mm": 499.55,
+    "thickness_mm": [
+      1.994,
+      2.003,
+      2.007
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 65,
+    "length_mm": 998.0,
+    "width_mm": 499.95,
+    "thickness_mm": [
+      1.984,
+      1.986,
+      1.981
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 66,
+    "length_mm": 999.59,
+    "width_mm": 500.39,
+    "thickness_mm": [
+      1.985,
+      1.983,
+      1.98
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 67,
+    "length_mm": 1000.42,
+    "width_mm": 499.91,
+    "thickness_mm": [
+      1.994,
+      1.995,
+      1.989
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 68,
+    "length_mm": 999.33,
+    "width_mm": 500.05,
+    "thickness_mm": [
+      1.983,
+      1.988,
+      1.987
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 69,
+    "length_mm": 1000.42,
+    "width_mm": 499.85,
+    "thickness_mm": [
+      1.993,
+      2.004,
+      1.996
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 70,
+    "length_mm": 1002.36,
+    "width_mm": 500.02,
+    "thickness_mm": [
+      1.998,
+      1.985,
+      1.981
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 71,
+    "length_mm": 1002.37,
+    "width_mm": 500.04,
+    "thickness_mm": [
+      1.999,
+      1.997,
+      1.989
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 72,
+    "length_mm": 1002.23,
+    "width_mm": 499.38,
+    "thickness_mm": [
+      2.006,
+      2.007,
+      2.008
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 73,
+    "length_mm": 997.97,
+    "width_mm": 500.3,
+    "thickness_mm": [
+      1.999,
+      1.971,
+      1.983
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 74,
+    "length_mm": 997.66,
+    "width_mm": 499.51,
+    "thickness_mm": [
+      1.997,
+      1.993,
+      2.007
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 75,
+    "length_mm": 999.96,
+    "width_mm": 499.88,
+    "thickness_mm": [
+      1.999,
+      1.997,
+      2.027
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 76,
+    "length_mm": 998.53,
+    "width_mm": 499.59,
+    "thickness_mm": [
+      2.02,
+      1.999,
+      1.993
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 77,
+    "length_mm": 997.9,
+    "width_mm": 499.78,
+    "thickness_mm": [
+      1.983,
+      1.993,
+      2.0
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 78,
+    "length_mm": 1001.57,
+    "width_mm": 499.74,
+    "thickness_mm": [
+      1.99,
+      2.002,
+      2.0
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 79,
+    "length_mm": 1001.83,
+    "width_mm": 499.66,
+    "thickness_mm": [
+      1.997,
+      1.991,
+      1.976
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 80,
+    "length_mm": 1002.3,
+    "width_mm": 500.11,
+    "thickness_mm": [
+      1.999,
+      2.007,
+      1.985
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 81,
+    "length_mm": 1002.24,
+    "width_mm": 500.04,
+    "thickness_mm": [
+      2.011,
+      2.0,
+      2.027
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 82,
+    "length_mm": 1000.36,
+    "width_mm": 500.21,
+    "thickness_mm": [
+      1.993,
+      2.009,
+      2.007
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 83,
+    "length_mm": 1001.67,
+    "width_mm": 499.63,
+    "thickness_mm": [
+      2.002,
+      2.005,
+      1.998
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 84,
+    "length_mm": 998.1,
+    "width_mm": 500.08,
+    "thickness_mm": [
+      1.993,
+      1.985,
+      1.988
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 85,
+    "length_mm": 999.57,
+    "width_mm": 499.7,
+    "thickness_mm": [
+      2.0,
+      1.989,
+      2.008
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 86,
+    "length_mm": 1001.12,
+    "width_mm": 499.66,
+    "thickness_mm": [
+      2.01,
+      1.999,
+      1.996
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 87,
+    "length_mm": 997.89,
+    "width_mm": 500.0,
+    "thickness_mm": [
+      1.994,
+      1.987,
+      1.991
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 88,
+    "length_mm": 1001.94,
+    "width_mm": 499.65,
+    "thickness_mm": [
+      1.986,
+      1.992,
+      1.992
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 89,
+    "length_mm": 1002.09,
+    "width_mm": 499.75,
+    "thickness_mm": [
+      2.003,
+      2.004,
+      1.974
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 90,
+    "length_mm": 999.63,
+    "width_mm": 499.72,
+    "thickness_mm": [
+      1.994,
+      1.988,
+      1.998
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 91,
+    "length_mm": 997.47,
+    "width_mm": 499.42,
+    "thickness_mm": [
+      1.995,
+      1.999,
+      2.016
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 92,
+    "length_mm": 999.68,
+    "width_mm": 499.79,
+    "thickness_mm": [
+      1.986,
+      2.003,
+      1.992
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 93,
+    "length_mm": 1001.77,
+    "width_mm": 500.09,
+    "thickness_mm": [
+      1.98,
+      1.996,
+      1.986
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 94,
+    "length_mm": 1002.02,
+    "width_mm": 500.44,
+    "thickness_mm": [
+      1.982,
+      2.018,
+      2.007
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 95,
+    "length_mm": 999.34,
+    "width_mm": 499.85,
+    "thickness_mm": [
+      2.001,
+      2.028,
+      2.012
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 96,
+    "length_mm": 998.15,
+    "width_mm": 499.63,
+    "thickness_mm": [
+      2.002,
+      2.004,
+      2.016
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 97,
+    "length_mm": 997.6,
+    "width_mm": 499.83,
+    "thickness_mm": [
+      1.968,
+      1.977,
+      1.997
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 98,
+    "length_mm": 997.98,
+    "width_mm": 500.36,
+    "thickness_mm": [
+      1.986,
+      1.979,
+      1.983
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 99,
+    "length_mm": 999.96,
+    "width_mm": 500.06,
+    "thickness_mm": [
+      2.013,
+      2.012,
+      2.007
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 100,
+    "length_mm": 1002.16,
+    "width_mm": 500.2,
+    "thickness_mm": [
+      1.995,
+      1.984,
+      1.994
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 101,
+    "length_mm": 999.89,
+    "width_mm": 500.23,
+    "thickness_mm": [
+      1.998,
+      2.009,
+      1.992
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 102,
+    "length_mm": 1000.44,
+    "width_mm": 500.74,
+    "thickness_mm": [
+      2.005,
+      2.006,
+      2.009
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 103,
+    "length_mm": 1000.03,
+    "width_mm": 500.3,
+    "thickness_mm": [
+      2.016,
+      2.004,
+      2.007
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 104,
+    "length_mm": 1000.13,
+    "width_mm": 500.38,
+    "thickness_mm": [
+      1.996,
+      1.992,
+      2.001
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 105,
+    "length_mm": 1002.13,
+    "width_mm": 500.05,
+    "thickness_mm": [
+      2.001,
+      2.0,
+      2.012
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 106,
+    "length_mm": 999.58,
+    "width_mm": 499.93,
+    "thickness_mm": [
+      1.982,
+      1.982,
+      1.985
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 107,
+    "length_mm": 997.59,
+    "width_mm": 499.63,
+    "thickness_mm": [
+      1.991,
+      1.995,
+      1.995
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 108,
+    "length_mm": 1002.01,
+    "width_mm": 500.15,
+    "thickness_mm": [
+      1.999,
+      1.988,
+      2.003
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 109,
+    "length_mm": 998.17,
+    "width_mm": 500.39,
+    "thickness_mm": [
+      1.984,
+      2.005,
+      1.995
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 110,
+    "length_mm": 1002.22,
+    "width_mm": 500.53,
+    "thickness_mm": [
+      1.974,
+      1.994,
+      1.983
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 111,
+    "length_mm": 998.35,
+    "width_mm": 499.92,
+    "thickness_mm": [
+      1.985,
+      1.972,
+      1.993
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 112,
+    "length_mm": 999.51,
+    "width_mm": 499.79,
+    "thickness_mm": [
+      2.003,
+      2.002,
+      2.007
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 113,
+    "length_mm": 1001.53,
+    "width_mm": 499.79,
+    "thickness_mm": [
+      1.988,
+      1.982,
+      1.985
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 114,
+    "length_mm": 999.51,
+    "width_mm": 499.87,
+    "thickness_mm": [
+      1.992,
+      2.002,
+      2.009
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 115,
+    "length_mm": 997.87,
+    "width_mm": 499.81,
+    "thickness_mm": [
+      2.0,
+      2.001,
+      2.018
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 116,
+    "length_mm": 1000.04,
+    "width_mm": 499.78,
+    "thickness_mm": [
+      1.995,
+      1.998,
+      2.015
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 117,
+    "length_mm": 998.08,
+    "width_mm": 500.14,
+    "thickness_mm": [
+      2.007,
+      2.009,
+      2.005
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 118,
+    "length_mm": 999.79,
+    "width_mm": 500.42,
+    "thickness_mm": [
+      2.004,
+      2.013,
+      1.98
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 119,
+    "length_mm": 998.64,
+    "width_mm": 500.43,
+    "thickness_mm": [
+      1.988,
+      2.021,
+      2.004
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 120,
+    "length_mm": 1002.0,
+    "width_mm": 500.47,
+    "thickness_mm": [
+      1.996,
+      2.004,
+      2.0
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 121,
+    "length_mm": 999.8,
+    "width_mm": 499.79,
+    "thickness_mm": [
+      2.022,
+      2.017,
+      2.008
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 122,
+    "length_mm": 999.79,
+    "width_mm": 499.42,
+    "thickness_mm": [
+      1.991,
+      1.975,
+      1.981
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 123,
+    "length_mm": 1002.67,
+    "width_mm": 500.44,
+    "thickness_mm": [
+      1.98,
+      1.998,
+      1.978
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 124,
+    "length_mm": 1000.16,
+    "width_mm": 499.69,
+    "thickness_mm": [
+      2.002,
+      1.992,
+      1.995
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 125,
+    "length_mm": 998.15,
+    "width_mm": 499.38,
+    "thickness_mm": [
+      1.998,
+      1.99,
+      1.989
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 126,
+    "length_mm": 999.99,
+    "width_mm": 500.0,
+    "thickness_mm": [
+      2.005,
+      2.005,
+      2.003
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 127,
+    "length_mm": 1000.38,
+    "width_mm": 500.59,
+    "thickness_mm": [
+      2.009,
+      1.998,
+      2.006
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 128,
+    "length_mm": 1000.15,
+    "width_mm": 500.26,
+    "thickness_mm": [
+      2.006,
+      1.996,
+      2.006
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 129,
+    "length_mm": 1000.34,
+    "width_mm": 500.0,
+    "thickness_mm": [
+      2.009,
+      2.004,
+      2.004
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 130,
+    "length_mm": 1000.37,
+    "width_mm": 499.18,
+    "thickness_mm": [
+      1.997,
+      2.002,
+      1.999
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 131,
+    "length_mm": 998.21,
+    "width_mm": 500.16,
+    "thickness_mm": [
+      2.001,
+      2.006,
+      1.991
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 132,
+    "length_mm": 1000.35,
+    "width_mm": 500.16,
+    "thickness_mm": [
+      1.992,
+      1.992,
+      2.0
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 133,
+    "length_mm": 1002.36,
+    "width_mm": 499.8,
+    "thickness_mm": [
+      1.995,
+      1.997,
+      1.991
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 134,
+    "length_mm": 999.81,
+    "width_mm": 500.26,
+    "thickness_mm": [
+      1.996,
+      1.998,
+      1.997
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 135,
+    "length_mm": 997.96,
+    "width_mm": 499.76,
+    "thickness_mm": [
+      2.002,
+      2.012,
+      1.989
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 136,
+    "length_mm": 1002.0,
+    "width_mm": 499.75,
+    "thickness_mm": [
+      2.026,
+      2.029,
+      2.017
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 137,
+    "length_mm": 1001.93,
+    "width_mm": 499.91,
+    "thickness_mm": [
+      2.0,
+      1.997,
+      2.007
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 138,
+    "length_mm": 1001.7,
+    "width_mm": 500.34,
+    "thickness_mm": [
+      1.982,
+      2.002,
+      2.001
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 139,
+    "length_mm": 1000.14,
+    "width_mm": 500.66,
+    "thickness_mm": [
+      2.007,
+      2.007,
+      2.022
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 140,
+    "length_mm": 997.73,
+    "width_mm": 500.14,
+    "thickness_mm": [
+      1.984,
+      1.994,
+      1.995
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 141,
+    "length_mm": 1000.17,
+    "width_mm": 499.97,
+    "thickness_mm": [
+      2.003,
+      1.995,
+      1.982
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 142,
+    "length_mm": 997.88,
+    "width_mm": 500.3,
+    "thickness_mm": [
+      2.005,
+      2.008,
+      2.025
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 143,
+    "length_mm": 1001.82,
+    "width_mm": 500.46,
+    "thickness_mm": [
+      1.996,
+      1.996,
+      1.988
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 144,
+    "length_mm": 997.48,
+    "width_mm": 499.92,
+    "thickness_mm": [
+      1.994,
+      2.009,
+      2.009
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 145,
+    "length_mm": 998.01,
+    "width_mm": 499.93,
+    "thickness_mm": [
+      1.997,
+      2.014,
+      2.008
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 146,
+    "length_mm": 999.64,
+    "width_mm": 500.01,
+    "thickness_mm": [
+      2.024,
+      2.021,
+      2.023
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 147,
+    "length_mm": 998.35,
+    "width_mm": 499.72,
+    "thickness_mm": [
+      2.021,
+      2.028,
+      2.013
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 148,
+    "length_mm": 999.71,
+    "width_mm": 500.05,
+    "thickness_mm": [
+      2.029,
+      2.02,
+      2.006
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 149,
+    "length_mm": 1001.98,
+    "width_mm": 499.69,
+    "thickness_mm": [
+      2.003,
+      1.994,
+      1.989
+    ]
+  },
+  {
+    "batch_id": "P004",
+    "sheet_number": 150,
+    "length_mm": 1002.33,
+    "width_mm": 500.31,
+    "thickness_mm": [
+      2.009,
+      2.004,
+      2.006
+    ]
+  }
+]
